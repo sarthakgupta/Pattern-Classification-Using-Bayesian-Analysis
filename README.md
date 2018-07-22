@@ -5,3 +5,5 @@ Real time Demo for Detection of Handwritten Digits:
 2. Open Image Test_digit.png in paint -> draw the digit(0 to 9) using white calligraphy brush 1 with minimum thickness.
 3. Run Image_converter.m -> Convert the image in matrix format as required by Bayesian Model. (This can be done in python also but due to some problem in installing package couldn't able to do it.)
 4. Run Test_image.py -> predict the handwritten digit drawn.
+
+Video Link: https://www.youtube.com/watch?v=ML2PR5Qtq8M&t=159s
